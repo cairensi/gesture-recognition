@@ -99,17 +99,10 @@ for i in range(5):
 python infer_video.py
 ```
 
-#### 鸣谢：
+#### PS：
 
-潘凯昕（不回我消息使我有了更多的时间去完成项目QAQ）
-
-张睿哲（和上面那人一样QAQ）
-
-感谢 BENEW.club为本次项目提供的网络支持
-
-感谢微软云Azure（非中国区世纪互联）提供的服务器
-
+潘凯昕和张睿哲十分的气人
 有问题提交issues
 
-#### 最后求Star，求Star，求Star，重要的事情说三遍
+#### 最后求Star
 
